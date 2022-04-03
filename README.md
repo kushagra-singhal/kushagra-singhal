@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kushagra-singhal
 - 👀 I’m interested in web dev and exploring disruptive tech
-- 🌱 I’m currently learning ...ReactJs
+- 🌱 I’m currently working on ...ReactJs, SpringBoot
 - 💞️ I’m looking to collaborate on ...various projects
 - 📫 How to reach me ...linkedin
 
